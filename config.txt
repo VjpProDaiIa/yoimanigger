@@ -1,0 +1,8 @@
+activate_key: f1
+hold_key: x1
+color_sens: 85
+Scan area width: 150
+Scan area height: 150
+Target color: purple
+smoothness: 1
+Triggerbot: False
