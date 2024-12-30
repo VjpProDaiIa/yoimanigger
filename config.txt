@@ -1,8 +1,7 @@
-activate_key: f1
-hold_key: x1
-color_sens: 85
-Scan area width: 150
-Scan area height: 150
-Target color: purple
-smoothness: 1
-Triggerbot: False
+keybind_active_aim: left_mouse_button
+do_nhay_mau_co_dinh: 75
+vung_aim_ngang: 100
+vung_aim_doc: 100
+color_target: purple
+smooth_aim: 1
+triggerbot: False
