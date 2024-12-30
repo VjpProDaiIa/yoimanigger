@@ -1,7 +1,0 @@
-keybind_active_aim: left_mouse_button
-do_nhay_mau_co_dinh: 75
-vung_aim_ngang: 100
-vung_aim_doc: 100
-color_target: purple
-smooth_aim: 1
-triggerbot: False
